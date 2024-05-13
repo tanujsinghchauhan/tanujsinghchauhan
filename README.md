@@ -37,7 +37,10 @@
 
 #### Looking forward to collaborating on frontend projects!
 
-<div class="tenor-gif-embed" data-postid="6058395" data-share-method="host" data-aspect-ratio="1.36612" data-width="100%"><a href="https://tenor.com/view/shining-the-shining-gif-6058395"><a href="https://tenor.com/search/shining-gifs"></a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div align="center">
+<img src="https://github.com/tanujsinghchauhan/tanujsinghchauhan/blob/main/shining-the-shining.gif" alt="overlook" width="1500" height="400" />
+</div>
+
  
  ### Peace Out~
 
