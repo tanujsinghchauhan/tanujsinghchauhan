@@ -37,8 +37,12 @@
 
 #### Looking forward to collaborating on frontend projects!
 
+<div class="tenor-gif-embed" data-postid="6058395" data-share-method="host" data-aspect-ratio="1.36612" data-width="100%"><a href="https://tenor.com/view/shining-the-shining-gif-6058395"><a href="https://tenor.com/search/shining-gifs"></a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+ 
+ ### Peace Out~
 
-![](https://komarev.com/ghpvc/?username=tanujsinghchauhan&label=STALKER+VIEWS&style=for-the-badge)
+
+![](https://komarev.com/ghpvc/?username=tanujsinghchauhan&label=STALKER+COUNT&style=for-the-badge)
   
 
 
