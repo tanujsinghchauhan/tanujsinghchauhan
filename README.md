@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/tanujsinghchauhan/tanujsinghchauhan/blob/main/intro.gif" alt="My Intro" width="150" height="150" />
+<img src="https://github.com/tanujsinghchauhan/tanujsinghchauhan/blob/main/intro.gif" alt="My Intro" width="1500" height="400" />
 </div>
 
 👋 Hi, I’m @tanujsinghchauhan a developer from India 
