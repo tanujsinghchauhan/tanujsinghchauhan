@@ -38,7 +38,7 @@
 #### Looking forward to collaborating on frontend projects!
 
 <div align="center">
-<img src="https://github.com/tanujsinghchauhan/tanujsinghchauhan/blob/main/shining-the-shining.gif" alt="overlook" width="1500" height="400" />
+<img src="https://github.com/tanujsinghchauhan/tanujsinghchauhan/blob/main/shining-the-shining.gif" alt="overlook" width="600" height="400" />
 </div>
 
  
