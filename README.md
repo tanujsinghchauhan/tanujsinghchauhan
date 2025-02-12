@@ -1,6 +1,4 @@
-<div align="center">
-<img src="https://github.com/tanujsinghchauhan/tanujsinghchauhan/blob/main/intro.gif" alt="My Intro" width="1500" height="400" />
-</div>
+
 
 ## Hi, I’m Tanuj Singh Chauhan, a developer from India.
 
