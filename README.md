@@ -12,11 +12,12 @@
 - HTML
 - CSS
 - Javascript
+- Java
 
 ### Learning ✒️
 
 - German 
-- Java
+- Backend(everything)
 - Data Structures and Algorithms
 - Web Development
 - Digital Art
